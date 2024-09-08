@@ -8,6 +8,7 @@ public class math {
 		int a;
 		int b;
 		int c;
+		System.out.println("c");
 
 	}
 
