@@ -6,6 +6,7 @@ public class math {
 		// TODO Auto-generated method stub
 		
 		int a;
+		int b;
 
 	}
 
