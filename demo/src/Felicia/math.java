@@ -7,6 +7,7 @@ public class math {
 		
 		int a;
 		int b;
+		int c;
 
 	}
 
